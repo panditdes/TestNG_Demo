@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Entered EmailID]]>
+    </line>
+    <line>
+      <![CDATA[Entered Password]]>
+    </line>
+    <line>
+      <![CDATA[Click on SubmiTButton]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-05T12:11:52 IST" name="Default suite" finished-at="2022-07-05T12:12:10 IST" duration-ms="17668">
+    <groups>
+    </groups>
+    <test started-at="2022-07-05T12:11:52 IST" name="Default test" finished-at="2022-07-05T12:12:10 IST" duration-ms="17668">
+      <class name="test_Classess.TestClass1">
+        <test-method signature="VerifyUserNameCanLOgIn()[pri:0, instance:test_Classess.TestClass1@56de5251]" started-at="2022-07-05T12:11:52 IST" name="VerifyUserNameCanLOgIn" finished-at="2022-07-05T12:12:09 IST" duration-ms="17554" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Entered EmailID]]>
+            </line>
+            <line>
+              <![CDATA[Entered Password]]>
+            </line>
+            <line>
+              <![CDATA[Click on SubmiTButton]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyUserNameCanLOgIn -->
+        <test-method signature="test2()[pri:0, instance:test_Classess.TestClass1@56de5251]" started-at="2022-07-05T12:12:10 IST" name="test2" finished-at="2022-07-05T12:12:10 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:test_Classess.TestClass1@56de5251]" started-at="2022-07-05T12:12:10 IST" name="test3" finished-at="2022-07-05T12:12:10 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:test_Classess.TestClass1@56de5251]" started-at="2022-07-05T12:12:10 IST" name="test4" finished-at="2022-07-05T12:12:10 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5()[pri:0, instance:test_Classess.TestClass1@56de5251]" started-at="2022-07-05T12:12:10 IST" name="test5" finished-at="2022-07-05T12:12:10 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+      </class> <!-- test_Classess.TestClass1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
